@@ -1,0 +1,23 @@
+{
+  "name": "Quantum Network",
+  "symbol": "Qnet",
+  "chain": "solana",
+  "chain id":"101",
+  "decimals": "9",
+  "totalSupply": "2625000000",
+  "address": "9EpBpP7JKW3HaoqUmPAL5Duqd3J4vGKqVUFRzWwTvKZv",
+  "logoURI": "https://tinyurl.com/uapbkhab",
+  "logo png":"https://white-just-rhinoceros-966.mypinata.cloud/ipfs/bafkreidowfa4qr6mam2tu7yht6kjac656kogjkw5n4flzh6dwjxrywv6we",
+  "website": "https://quantumnetwork.international",
+  "description": "Quantum Network is a revolutionary blockchain project powered by quantum computing principles, aiming to provide ultra-fast, secure, and scalable decentralized infrastructure.",
+  "social": {
+    "twitter": "https://x.com/Quantumfinance6",
+    "instagram": "https://www.instagram.com/quantumnetworkmining"
+  },
+  "tags": [
+    "utility-token",
+    "solana",
+    "quantum-tech"
+  ]
+}
+
