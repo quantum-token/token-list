@@ -1,0 +1,40 @@
+{
+  "name": "Solana Token List",
+  "tags": {
+    "utility-token": {
+      "name": "Utility Token",
+      "description": "Token used for utility purposes"
+    },
+    "solana": {
+      "name": "Solana Chain",
+      "description": "Solana-based tokens"
+    },
+    "quantum-tech": {
+      "name": "Quantum Project",
+      "description": "Quantum Network related tokens"
+    }
+  },
+  "timestamp": "2025-08-06T11:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "name": "Quantum Network",
+      "symbol": "QNET",
+      "address": "9EpBpP7JKW3HaoqUmPAL5Duqd3J4vGKqVUFRzWwTvKZv",
+      "chainId": 101,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/eggaseyfur/token-list/main/tokens/mainnet-beta/9EpBpP7JKW3HaoqUmPAL5Duqd3J4vGKqVUFRzWwTvKZv/logo.png",
+      "tags": ["utility-token", "solana", "quantum-tech"],
+      "extensions": {
+        "website": "https://quantumnetwork.international",
+        "twitter": "https://x.com/Quantumfinance6",
+        "instagram": "https://www.instagram.com/quantumnetworkmining",
+        "extendedDescription": "Quantum Network, Solana blokzinciri üzerinde çalışan merkeziyetsiz bir madencilik ve staking platformudur. QNET token, ödül dağıtımı ve dijital ekonomi işlemlerinde kullanılır. 2025 yılında madencilik modülü aktif edilecektir."
+      }
+    }
+  ]
+}
